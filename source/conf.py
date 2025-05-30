@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '开发日志'
+project = '浦阳檀溪陈氏宗谱'
 copyright = '2025, Chen-jiangqiao'
 author = 'joe'
 release = 'v1.0'
