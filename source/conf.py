@@ -1,18 +1,7 @@
-# Configuration file for the Sphinx documentation builder.
-#
-# For the full list of built-in configuration values, see the documentation:
-# https://www.sphinx-doc.org/en/master/usage/configuration.html
-
-# -- Project information -----------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-
 project = '浦阳檀溪陈氏宗谱'
-copyright = '2025, Chen-jiangqiao'
+copyright = '2025, pyzpyjxh@163.com'
 author = 'joe'
 release = 'v1.0'
-
-# -- General configuration ---------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
     'recommonmark',
