@@ -9,6 +9,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.imgconverter',
     'sphinx.ext.autosummary',
+    'sphinxcontrib.mermaid',
 ]
 
 # 设置主题
@@ -24,7 +25,3 @@ source_suffix = {
 # 图片路径设置
 html_static_path = ['_static']
 html_js_files = ['svg-interaction.js',]
-
-#响应式SVG的CSS
-def setup(app):
-    app.add_css_file('custom.css')
